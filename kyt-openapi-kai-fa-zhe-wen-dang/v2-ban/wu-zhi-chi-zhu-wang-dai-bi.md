@@ -3,24 +3,4 @@
 \
 
 
-| **主网**       | **代币** |
-| ------------ | ------ |
-| Bitcoin      | BTC    |
-| Ethereum     | ETH    |
-|              | USDT   |
-|              | USDC   |
-| BSC          | BNB    |
-|              | USDT   |
-|              | USDC   |
-| TRON         | TRX    |
-|              | USDT   |
-|              | USDC   |
-| Polygon      | MATIC  |
-|              | USDT   |
-|              | USDC   |
-| ARBITRUM ONE | ARB    |
-|              | USDT   |
-|              | USDC   |
-| AVALANCHE-C  | AVAX   |
-|              | USDT   |
-|              | USDC   |
+<table data-header-hidden><thead><tr><th width="374"></th><th></th></tr></thead><tbody><tr><td><strong>主网</strong></td><td><strong>代币</strong></td></tr><tr><td>Bitcoin</td><td>BTC</td></tr><tr><td>Ethereum</td><td>ETH</td></tr><tr><td></td><td>USDT</td></tr><tr><td></td><td>USDC</td></tr><tr><td>BSC</td><td>BNB</td></tr><tr><td></td><td>USDT</td></tr><tr><td></td><td>USDC</td></tr><tr><td>TRON</td><td>TRX</td></tr><tr><td></td><td>USDT</td></tr><tr><td></td><td>USDC</td></tr><tr><td>Polygon</td><td>MATIC</td></tr><tr><td></td><td>USDT</td></tr><tr><td></td><td>USDC</td></tr><tr><td>AVALANCHE-C</td><td>AVAX</td></tr><tr><td></td><td>USDT</td></tr><tr><td></td><td>USDC</td></tr></tbody></table>
