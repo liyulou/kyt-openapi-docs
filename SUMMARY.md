@@ -10,7 +10,7 @@
     * [六、主网地址风险筛查接口](kyt-openapi-kai-fa-zhe-wen-dang/v2-ban/liu-zhu-wang-di-zhi-feng-xian-shai-cha-jie-kou.md)
     * [七、黑名单地址检测接口](kyt-openapi-kai-fa-zhe-wen-dang/v2-ban/qi-hei-ming-dan-di-zhi-jian-ce-jie-kou.md)
     * [八、Risk\_Code说明书](kyt-openapi-kai-fa-zhe-wen-dang/v2-ban/ba-riskcode-shuo-ming-shu.md)
-    * [九、黑名单分类说明](kyt-openapi-kai-fa-zhe-wen-dang/v2-ban/jiu-hei-ming-dan-fen-lei-shuo-ming.md)
+    * [九、风险类型](kyt-openapi-kai-fa-zhe-wen-dang/v2-ban/jiu-feng-xian-lei-xing.md)
     * [十、Sample Code](kyt-openapi-kai-fa-zhe-wen-dang/v2-ban/shi-sample-code.md)
     * [十一、KYC等级说明](kyt-openapi-kai-fa-zhe-wen-dang/v2-ban/shi-yi-kyc-deng-ji-shuo-ming.md)
 * [KYT API规则引擎使用指南](kyt-api-gui-ze-yin-qing-shi-yong-zhi-nan.md)
