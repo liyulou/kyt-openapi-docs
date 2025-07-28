@@ -60,7 +60,18 @@ GET /openapi/v2/data/enum
                 ],
                 "network": "POLYGON"
             },
-            ......
+            {
+                "coin_list": [
+                    "LTC"
+                ],
+                "network": "Litecoin"
+            },
+            {
+                "coin_list": [
+                    "DOGE"
+                ],
+                "network": "Dogecoin"
+            }
         ]
     }
 }
