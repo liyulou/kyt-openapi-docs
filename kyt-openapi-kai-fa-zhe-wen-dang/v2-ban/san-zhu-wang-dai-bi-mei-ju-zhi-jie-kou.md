@@ -39,8 +39,7 @@ GET /openapi/v2/data/enum
             {
                 "coin_list": [
                     "TRX",
-                    "USDT",
-                    "USDC"
+                    "USDT"
                 ],
                 "network": "TRON"
             },
@@ -54,7 +53,7 @@ GET /openapi/v2/data/enum
             },
             {
                 "coin_list": [
-                    "MATIC",
+                    "POL",
                     "USDT",
                     "USDC"
                 ],
