@@ -1,4 +1,4 @@
-# 六、Risk\_Code说明书
+# 八、Risk\_Code说明书
 
 单一code分为：命中黑名单、间接风险交易、未知、未查询到等等；
 
@@ -10,7 +10,7 @@
 | -------- | ---------- | ------------------------------ |
 | 4444     | 命中黑名单      | Black Address                  |
 | 0        | 未知         | none                           |
-| -1       | 未查询到       | not found                      |
+| -1       | 无效的apikey  | api\_key is invalid            |
 | -2       | 不支持该主网或该代币 | network or coin is not support |
 | 1        | 命中私有白名单    | Private White Address          |
 | 444      | 命中私有黑名单    | Private Blacklist Address      |
