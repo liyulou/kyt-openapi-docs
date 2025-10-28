@@ -26,7 +26,7 @@ apikey过期或错误，返回：
 }
 ```
 
-apikey和secrectkey交易通过，正常返回：
+apikey和secrectkey验证通过，正常返回：
 
 ```json
 {
