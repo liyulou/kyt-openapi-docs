@@ -16,6 +16,18 @@ GET /openapi/v2/risk/tx/check
 
 ## 4、返回参数 <a href="#id-4-fan-hui-can-shu" id="id-4-fan-hui-can-shu"></a>
 
+apikey过期或错误，返回：
+
+```
+{
+    "code": -1,
+    "data": {},
+    "message": "api_key is invalid"
+}
+```
+
+apikey和secrectkey交易通过，正常返回：
+
 ```json
 {
     "code": 200,
