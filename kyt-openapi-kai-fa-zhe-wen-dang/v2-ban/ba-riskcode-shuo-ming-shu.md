@@ -1,10 +1,10 @@
 # 八、Risk\_Code说明书
 
-单一code分为：命中黑名单、间接风险交易、未知、未查询到等等；
+单一risk\_code分为：命中黑名单、间接风险交易、未知、未查询到等等；
 
-**其他复杂code是由“分类+交易方向+交易曝光类型+风险等级”按顺序拼接而成**
+**其他复杂risk\_code是由“分类+交易方向+交易曝光类型+风险等级”按顺序拼接而成**
 
-#### 1、单一code <a href="#id-1-ming-zhong-hei-ming-dan-he-wei-zhi-code" id="id-1-ming-zhong-hei-ming-dan-he-wei-zhi-code"></a>
+#### 1、单一risk\_code <a href="#id-1-ming-zhong-hei-ming-dan-he-wei-zhi-code" id="id-1-ming-zhong-hei-ming-dan-he-wei-zhi-code"></a>
 
 | **code** | **名称**     | **name**                       |
 | -------- | ---------- | ------------------------------ |
