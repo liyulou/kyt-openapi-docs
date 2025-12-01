@@ -3,7 +3,7 @@
 * [KYT OPEN-API开发者文档](README.md)
   * [V2版](kyt-openapi-kai-fa-zhe-wen-dang/v2-ban/README.md)
     * [一、地址充值｜提现风险预警接口](kyt-openapi-kai-fa-zhe-wen-dang/v2-ban/yi-di-zhi-chong-zhi-ti-xian-feng-xian-yu-jing-jie-kou.md)
-    * [二、实时交易风险报警接口](kyt-openapi-kai-fa-zhe-wen-dang/v2-ban/er-shi-shi-jiao-yi-feng-xian-bao-jing-jie-kou.md)
+    * [二、实时交易风险告警接口](kyt-openapi-kai-fa-zhe-wen-dang/v2-ban/er-shi-shi-jiao-yi-feng-xian-gao-jing-jie-kou.md)
     * [三、主网代币枚举值接口](kyt-openapi-kai-fa-zhe-wen-dang/v2-ban/san-zhu-wang-dai-bi-mei-ju-zhi-jie-kou.md)
     * [四、历史数据查询接口](kyt-openapi-kai-fa-zhe-wen-dang/v2-ban/si-li-shi-shu-ju-cha-xun-jie-kou.md)
     * [五、支持主网代币](kyt-openapi-kai-fa-zhe-wen-dang/v2-ban/wu-zhi-chi-zhu-wang-dai-bi.md)

@@ -1,4 +1,4 @@
-# 二、实时交易风险报警接口
+# 二、实时交易风险告警接口
 
 说明：支持最新实时交易（最近24小时内），对交易hash进行风险检测（参与交易的地址是否包含黑名单、交易地址是否直接或间接和黑名单进行过交易、交易中接收地址交易金额是否超过AML阈值等等）
 
@@ -124,4 +124,4 @@ apikey和secrectkey验证通过，正常返回：
 
 <table data-header-hidden><thead><tr><th width="314"></th><th width="115"></th><th></th></tr></thead><tbody><tr><td><strong>参数名</strong></td><td><strong>数据类型</strong></td><td><strong>描述</strong></td></tr><tr><td>code</td><td>Int</td><td><p>200：请求成功</p><p>-2：不支持该主网</p></td></tr><tr><td>message</td><td>string</td><td>接口请求状态描述</td></tr><tr><td>unique_id</td><td>string</td><td>唯一id（标识当前请求，用于查询历史记录）</td></tr><tr><td>risk_level</td><td>string</td><td><p>风险等级（</p><p>severe：严重</p><p>high：高风险</p><p>medium：中风险</p><p>low：低风险</p><p>none：未知</p><p>）</p></td></tr><tr><td>risk_code</td><td>int</td><td><p>风险code（</p><p>0：未知</p><p>-1：未查询到</p><p>4444：命中黑名单</p><p><strong>其他code说明详见：《risk_code说明书》</strong></p><p>）</p></td></tr><tr><td>risk_source</td><td>jsonArray</td><td>风险来源</td></tr><tr><td>risk_source.risk_from_address_list</td><td>jsonArray</td><td>交易发送方地址中的黑名单列表</td></tr><tr><td>risk_source.risk_to_address_list</td><td>jsonArray</td><td>交易接收方地址中的黑名单列表</td></tr><tr><td>risk_source.direct_tx_from_risk_list</td><td>jsonArray</td><td>交易发送方地址的直接风险交易列表</td></tr><tr><td>risk_source.direct_tx_to_risk_list</td><td>jsonArray</td><td>交易接收方地址的直接风险交易列表</td></tr><tr><td>risk_source.from_indirect_risk_list</td><td>jsonArray</td><td>交易发送发地址的间接风险交易列表</td></tr><tr><td>risk_source.to_indirect_risk_list</td><td>jsonArray</td><td>交易接收发地址的间接风险交易列表</td></tr></tbody></table>
 
-\
+<br>
